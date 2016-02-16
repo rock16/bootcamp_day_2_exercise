@@ -1,4 +1,4 @@
-name = "Ikechukwuerefuna"
+name = "Ikechukwuerefuna".upcase
 fat=name.length
 i = 0
 while i < fat
